@@ -16,6 +16,7 @@ WINDOW_SECONDS = 10
 ALLOWED_ORIGINS = [
     "https://app-zpt35k.example.com",
     "https://dash-58k0n2.example.com",
+    "https://exam.sanand.workers.dev",
 ]
 
 api = FastAPI()
